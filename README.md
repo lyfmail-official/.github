@@ -35,7 +35,7 @@ For website owners who want to use, fork, or integrate LYF Mail tools.
 
 🧩 Our Repositories
 
-📱 . lyfmail-pwa
+📱 1. lyfmail-pwa
 
 Official PWA codebase (public template version).
 Includes service worker, manifest, structure, icons, and scripts.
