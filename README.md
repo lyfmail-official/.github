@@ -100,10 +100,10 @@ Pull requests, suggestions, and improvements are always welcome.
 
 Social Profiles
 
-* X (Twitter): Already active
-* Facebook: Active
-* YouTube: Active
-* LinkedIn: Active
+* X (Twitter): https://twitter.com/lyfmailcom
+* Facebook: https://www.facebook.com/thelyfmail
+* YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g
+* LinkedIn: https://in.linkedin.com/in/lyfmailcom
 
 🤝 Contributing
 
