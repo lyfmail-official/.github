@@ -47,4 +47,4 @@ LYF Mail is a privacy-first digital wellness platform based in **Varanasi, Uttar
 
 **Founded:** 2020 · **Location:** Varanasi, Uttar Pradesh, India · **License:** MIT / Apache-2.0 / AGPL-3.0
 
-Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) — B.Tech CS, Lecturer, and privacy advocate from Varanasi, India.
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) — B.Tech CS, Former Lecturer, and privacy advocate from Varanasi, India.
