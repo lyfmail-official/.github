@@ -103,7 +103,7 @@ Social Profiles
 * X (Twitter): https://twitter.com/lyfmailcom
 * Facebook: https://www.facebook.com/thelyfmail
 * YouTube: https://m.youtube.com/channel/UCurymhWrl2nkvv31uJMuc0g
-* LinkedIn: https://in.linkedin.com/in/lyfmailcom
+* LinkedIn: https://www.linkedin.com/company/lyf-mail
 
 🤝 Contributing
 
