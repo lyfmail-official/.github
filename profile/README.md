@@ -7,7 +7,7 @@ LYF Mail is a privacy-first digital wellness platform based in **Varanasi, Uttar
 ---
 
 ## 🏠 Main Website
-**[https://lyfmail.com](https://lyfmail.com)** — Free weekly newsletters for health, wealth, career, creativity & mindfulness
+**[https://lyfmail.com](https://lyfmail.com)** — Free weekly newsletters for health, wealth, career, creativity & mindfulness.
 
 ## 📚 Pillar Guides
 - [Health & Wellness Guide](https://lyfmail.com/health-wellness-guide)
