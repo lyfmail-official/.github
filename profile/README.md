@@ -63,7 +63,7 @@ Fifteen privacy-first apps for health, safety, money, and career growth.
 - [Personal Development](https://intuition.signup.lyfmail.com)
 
 ## 📖 Documentation
-[docs.lyfmail.com](https://docs.lyfmail.com) — Technical guides, API references, and contribution guidelines
+[docs.lyfmail.com](https://docs.lyfmail.com) — Technical guides, API references, and contribution guidelines.
 
 ## 🤝 Support
 - [support.lyfmail.com](https://support.lyfmail.com)
