@@ -19,15 +19,15 @@ Free apps for health, safety, money, and career growth — from a private period
 ### 📰 A structured content network
 Dedicated subdomains keep every topic focused and easy to find:
 
-- [lyfmail.com](https://lyfmail.com) — Main website
-- [lyfmail.com/privacy-first-apps](https://lyfmail.com/privacy-first-apps) — Privacy-first apps directory
+- [lyfmail.com](https://lyfmail.com) — Main Website
+- [lyfmail.com/privacy-first-apps](https://lyfmail.com/privacy-first-apps) — Privacy-first apps directory.
 - [app.lyfmail.com](https://app.lyfmail.com) — PWA
-- [docs.lyfmail.com](https://docs.lyfmail.com) — Documentation hub
-- [health.signup.lyfmail.com](https://health.signup.lyfmail.com) — Health & Wellness newsletter
-- [financing.signup.lyfmail.com](https://financing.signup.lyfmail.com) — Personal Finance newsletter
-- [career.signup.lyfmail.com](https://career.signup.lyfmail.com) — Career Development newsletter
-- [creativity.signup.lyfmail.com](https://creativity.signup.lyfmail.com) — Creativity & Innovation newsletter
-- [intuition.signup.lyfmail.com](https://intuition.signup.lyfmail.com) — Personal Development newsletter
+- [docs.lyfmail.com](https://docs.lyfmail.com) — Documentation Hub
+- [health.signup.lyfmail.com](https://health.signup.lyfmail.com) — Health & Wellness Newsletter
+- [financing.signup.lyfmail.com](https://financing.signup.lyfmail.com) — Personal Finance Newsletter
+- [career.signup.lyfmail.com](https://career.signup.lyfmail.com) — Career Development Newsletter
+- [creativity.signup.lyfmail.com](https://creativity.signup.lyfmail.com) — Creativity & Innovation Newsletter
+- [intuition.signup.lyfmail.com](https://intuition.signup.lyfmail.com) — Personal Development Newsletter
 
 ### 👩‍💻 A developer-friendly approach
 For developers and website owners who want to use, fork, or integrate LYF Mail tools.
@@ -83,12 +83,12 @@ To deliver meaningful insights that help people grow — every day.
 
 We combine:
 
-- Clean design
-- Fast web performance
-- Privacy by default
-- Smart content systems
-- Consistent branding
-- Open-source philosophy
+- Clean design.
+- Fast web performance.
+- Privacy by default.
+- Smart content systems.
+- Consistent branding.
+- Open-source philosophy.
 
 …to build tools that anyone can learn from, use, and integrate.
 
@@ -96,22 +96,22 @@ We combine:
 
 You can use the LYF Mail GitHub organization to:
 
-- Install and customize the PWA template
-- Integrate LYF Mail widgets or micro-tools
-- Learn from open-source best practices
+- Install and customize the PWA template.
+- Integrate LYF Mail widgets or micro-tools.
+- Learn from open-source best practices.
 - Explore the [documentation](https://docs.lyfmail.com)
-- Contribute to our ecosystem
+- Contribute to our ecosystem.
 
 Pull requests, suggestions, and improvements are always welcome.
 
 ## 🎯 Goals of This GitHub Organization
 
-- Build a strong, trusted, public brand identity
-- Establish LYF Mail as an authoritative, privacy-respecting digital ecosystem
-- Maintain open documentation and clean, reviewable code
-- Help developers deploy the PWA on their own sites
-- Share tools, templates, and best practices
-- Expand community contributions
+- Build a strong, trusted, public brand identity.
+- Establish LYF Mail as an authoritative, privacy-respecting digital ecosystem.
+- Maintain open documentation and clean, reviewable code.
+- Help developers deploy the PWA on their own sites.
+- Share tools, templates, and best practices.
+- Expand community contributions.
 
 ---
 
