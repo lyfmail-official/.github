@@ -1,6 +1,6 @@
-# LYF Mail Official — Privacy-First Tools, Insights & Growth
+# LYF Mail Official — Privacy-First Apps, Insights & Growth
 
-Welcome to the official GitHub organization for **LYF Mail**, a privacy-first digital wellness platform from Varanasi, India. Since 2020, we have delivered curated insights in **health, wealth, career, creativity, and personal growth** to 50,000+ subscribers — through free newsletters, a Progressive Web App, and a growing suite of open-source tools.
+Welcome to the official GitHub organization for **LYF Mail**, a privacy-first digital wellness platform from Varanasi, India. Since 2020, we have delivered curated insights in **health, wealth, career, creativity, and personal growth** to 50,000+ subscribers — through free newsletters, a Progressive Web App, and a suite of 15 privacy-first apps.
 
 LYF Mail empowers individuals, creators, developers, and businesses with tools that simplify learning, protect privacy, boost productivity, and unlock growth.
 
@@ -11,54 +11,48 @@ LYF Mail empowers individuals, creators, developers, and businesses with tools t
 LYF Mail is a digital ecosystem built from three parts.
 
 ### 📱 A modern, installable Progressive Web App (PWA)
-Delivers trending insights, category-based newsletters, and a clean user experience at [app.lyfmail.com](https://app.lyfmail.com).
+Delivers newsletters, guides, and free tools in one place at [app.lyfmail.com](https://app.lyfmail.com).
 
-### 🛠️ A growing suite of privacy-first tools
-Fifteen apps for health, safety, money, and career growth — from a private period tracker to a financial-data guard for AI chats. See the tools section below.
+### 🛠️ 15 privacy-first apps
+Free apps for health, safety, money, and career growth — from a private period tracker to a guard for financial data in AI chats. Most run in your browser, keep your data on your own device, and show no ads. See [Our Apps](#our-apps) below, or browse them all at [lyfmail.com/privacy-first-apps](https://lyfmail.com/privacy-first-apps).
 
 ### 📰 A structured content network
 Dedicated subdomains keep every topic focused and easy to find:
 
-- [lyfmail.com](https://lyfmail.com) — Main Website
+- [lyfmail.com](https://lyfmail.com) — Main website
+- [lyfmail.com/privacy-first-apps](https://lyfmail.com/privacy-first-apps) — Privacy-first apps directory
 - [app.lyfmail.com](https://app.lyfmail.com) — PWA
-- [docs.lyfmail.com](https://docs.lyfmail.com) — Documentation hub.
-- [health.signup.lyfmail.com](https://health.signup.lyfmail.com) — Health & Wellness newsletter.
-- [financing.signup.lyfmail.com](https://financing.signup.lyfmail.com) — Personal Finance newsletter.
-- [career.signup.lyfmail.com](https://career.signup.lyfmail.com) — Career Development newsletter.
-- [creativity.signup.lyfmail.com](https://creativity.signup.lyfmail.com) — Creativity & Innovation newsletter.
-- [intuition.signup.lyfmail.com](https://intuition.signup.lyfmail.com) — Personal Development newsletter.
+- [docs.lyfmail.com](https://docs.lyfmail.com) — Documentation hub
+- [health.signup.lyfmail.com](https://health.signup.lyfmail.com) — Health & Wellness newsletter
+- [financing.signup.lyfmail.com](https://financing.signup.lyfmail.com) — Personal Finance newsletter
+- [career.signup.lyfmail.com](https://career.signup.lyfmail.com) — Career Development newsletter
+- [creativity.signup.lyfmail.com](https://creativity.signup.lyfmail.com) — Creativity & Innovation newsletter
+- [intuition.signup.lyfmail.com](https://intuition.signup.lyfmail.com) — Personal Development newsletter
 
 ### 👩‍💻 A developer-friendly approach
 For developers and website owners who want to use, fork, or integrate LYF Mail tools.
 
 ---
 
-## 🛠️ Our Tools
+## Our Apps
 
-| Category | Tools |
-|----------|-------|
-| 🌿 **Health & Wellness** | [Ebb](https://ebb.lyfmail.com) · [Together](https://together.lyfmail.com) · [Rewriter](https://rewriter.lyfmail.com) · [Offload](https://offload.lyfmail.com) · [Mnemo](https://mnemo.lyfmail.com) · [Psychelog](https://psychelog.lyfmail.com) · [Fitrail](https://fitrail.lyfmail.com) |
-| 🛡️ **Privacy, Safety & Trust** | [TrustLens](https://trustlens.lyfmail.com) · [LYF SOS](https://lyfsos.lyfmail.com) · [PDPR](https://pdpr.lyfmail.com) · [Signals](https://signals.lyfmail.com) · [Custos](https://custos.lyfmail.com) |
-| 💼 **Career & Creators** | [HireStack](https://hirestack.lyfmail.com) · [Veilora](https://veilora.lyfmail.com) |
-| 📱 **Platform** | [LYF Mail App](https://app.lyfmail.com) |
-
-| Tool | What it does |
-|------|--------------|
-| **Ebb** | Privacy-first period tracker with homomorphic encryption. |
-| **Together** | Community mental health support through shared therapeutic silence. |
-| **Rewriter** | AI-powered narrative therapy and health content writing assistant. |
-| **Offload** | Stress and anxiety relief with binaural beats and a dream journal. Zero cloud storage. |
-| **Mnemo** | Memory and recall tool for mental wellness. |
-| **Psychelog** | Private mind and mood journal. |
-| **Fitrail** | Privacy-first fitness, sleep, and workout tracker with route privacy. |
-| **TrustLens** | Misinformation and fake news detection before you share. |
-| **LYF SOS** | Emergency safety app that works without internet. Built for India. |
-| **PDPR** | Public Dark Pattern Registry for documenting deceptive UX and privacy violations. |
-| **Signals** | Privacy-first analytics with human vs. bot detection and no cookies. |
-| **Custos** | Local-first guardian for sensitive financial data before it reaches AI chats. |
-| **HireStack** | Portfolio audit, skill-gap planner, interview practice, and proposal & scope defender for freelancers. |
-| **Veilora** | Clean image metadata, redact personal details, and check work before publishing. |
-| **LYF Mail App** | Installable PWA with email insights and a curated content hub. |
+| Category | App | What it does |
+|----------|-----|--------------|
+| 🌿 Health & Wellness | [Ebb](https://ebb.lyfmail.com) | Private period and fertility tracker. Data stays on your device. |
+| | [Together](https://together.lyfmail.com) | Silent shared presence for calm. No feed, no likes, no chat. |
+| | [Rewriter](https://rewriter.lyfmail.com) | Private narrative therapy writing companion. |
+| | [Offload](https://offload.lyfmail.com) | Pre-sleep brain dump with binaural beats and a dream journal. |
+| | [Psychelog](https://psychelog.lyfmail.com) | Encrypted integration journal with on-device insights. |
+| | [Fitrail](https://fitrail.lyfmail.com) | Encrypted fitness, sleep, and workout tracker with route privacy. |
+| 🛡️ Privacy, Safety & Trust | [TrustLens](https://trustlens.lyfmail.com) | Check news and forwarded messages for misinformation. |
+| | [LYF SOS](https://lyfsos.lyfmail.com) | Offline emergency mesh network for Android. Built for India. |
+| | [PDPR](https://pdpr.lyfmail.com) | Public Dark-Pattern Registry for deceptive UX. |
+| | [Signals](https://signals.lyfmail.com) | Privacy-first analytics with human vs. bot detection. |
+| | [Custos](https://custos.lyfmail.com) | Guards sensitive financial data before it reaches AI. |
+| 💼 Knowledge, Career & Creators | [Mnemo](https://mnemo.lyfmail.com) | Private encrypted second brain with on-device AI. |
+| | [HireStack](https://hirestack.lyfmail.com) | Nine free career tools for freelancers and job seekers. |
+| | [Veilora](https://veilora.lyfmail.com) | Clean image metadata and check work before publishing. |
+| 📱 Platform | [LYF Mail App](https://app.lyfmail.com) | Installable app with newsletters, guides, and tools. |
 
 ---
 
@@ -73,8 +67,8 @@ Full documentation hub: setup guides, API references, integration instructions, 
 ### 🎨 3. lyfmail-brand-assets
 Official brand library: logos, PWA icons, color palettes, typography, and media assets.
 
-### 🛠️ 4. Tool repositories
-Source code for our open-source tools: `ebb`, `together`, `rewriter`, `offload`, `mnemo`, `psychelog`, `fitrail`, `trustlens`, `lyfsos`, `pdpr`, `signals`, `custos`, `hirestack`, and `veilora`.
+### 🛠️ 4. App repositories
+Source code for our apps, where published: `ebb`, `together`, `rewriter`, `offload`, `psychelog`, `fitrail`, `trustlens`, `lyfsos`, `pdpr`, `signals`, `custos`, `mnemo`, `hirestack`, and `veilora`. Each repository lists its license.
 
 ### 🏛️ 5. .github
 Organization-wide templates, workflows, contribution rules, security policies, and community files.
@@ -89,12 +83,12 @@ To deliver meaningful insights that help people grow — every day.
 
 We combine:
 
-- Clean design.
-- Fast web performance.
-- Privacy by default.
-- Smart content systems.
-- Consistent branding.
-- Open-source philosophy.
+- Clean design
+- Fast web performance
+- Privacy by default
+- Smart content systems
+- Consistent branding
+- Open-source philosophy
 
 …to build tools that anyone can learn from, use, and integrate.
 
@@ -102,28 +96,29 @@ We combine:
 
 You can use the LYF Mail GitHub organization to:
 
-- Install and customize the PWA template.
-- Integrate LYF Mail widgets or micro-tools.
-- Learn from open-source best practices.
-- Explore the [documentation](https://docs.lyfmail.com).
-- Contribute to our ecosystem.
+- Install and customize the PWA template
+- Integrate LYF Mail widgets or micro-tools
+- Learn from open-source best practices
+- Explore the [documentation](https://docs.lyfmail.com)
+- Contribute to our ecosystem
 
 Pull requests, suggestions, and improvements are always welcome.
 
 ## 🎯 Goals of This GitHub Organization
 
-- Build a strong, trusted, public brand identity.
-- Establish LYF Mail as an authoritative, privacy-respecting digital ecosystem.
-- Maintain open documentation and clean, reviewable code.
-- Help developers deploy the PWA on their own sites.
-- Share tools, templates, and best practices.
-- Expand community contributions.
+- Build a strong, trusted, public brand identity
+- Establish LYF Mail as an authoritative, privacy-respecting digital ecosystem
+- Maintain open documentation and clean, reviewable code
+- Help developers deploy the PWA on their own sites
+- Share tools, templates, and best practices
+- Expand community contributions
 
 ---
 
 ## 🌍 Official Links
 
 - 🌐 **Website:** [lyfmail.com](https://lyfmail.com)
+- 🛠️ **Privacy-First Apps:** [lyfmail.com/privacy-first-apps](https://lyfmail.com/privacy-first-apps)
 - 📱 **PWA:** [app.lyfmail.com](https://app.lyfmail.com)
 - 📚 **Docs:** [docs.lyfmail.com](https://docs.lyfmail.com)
 - 🎨 **Brand Assets:** [lyfmail-brand-assets](https://github.com/lyfmail-official/lyfmail-brand-assets)
